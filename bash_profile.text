@@ -1,4 +1,4 @@
-
+#http://askubuntu.com/questions/121073/why-bash-profile-is-not-getting-sourced-when-opening-a-terminal
 # I like tunning the colors of the prompt in the first place:
 export CLICOLOR='true'
 export  LSCOLORS="gxfxcxdxbxCgCdabagacad"
